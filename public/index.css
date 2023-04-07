@@ -1,0 +1,15 @@
+:root {
+    --color-cream-background: #ECDFDB;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    background-color: var(--color-cream-background);
+    font-family: "DM Sans", sans-serif;
+}
